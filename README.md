@@ -1,16 +1,11 @@
 # KawaSpace-Frontend-Intern-Challenge
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-
-
-
 
 ![image](https://user-images.githubusercontent.com/67636219/123452955-926ca280-d5fc-11eb-8739-3f9e35bc3105.png)
 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Available Scripts
 
 
 In the project directory, you can run:
